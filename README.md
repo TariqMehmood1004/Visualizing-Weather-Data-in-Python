@@ -43,6 +43,6 @@ This will display real-time weather data mapped across cities.
 ---
 
 💡 *Feel free to contribute or report any issues!* 🚀
-```
+
 
 Would you like any modifications or additional sections like **Usage** or **Configuration**? 😊
